@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyash1024
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to contribute in open source projects
 
